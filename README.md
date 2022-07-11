@@ -1,4 +1,5 @@
-# Curve DAO Whitelist Submission v2.
+# A Revised Proposal to Whitelist Kallisto’s Automated Vault Contract
+
 
 # Summary
 This proposal is a revision of our initial introduction proposal to Cuve DAO [here](https://gov.curve.fi/t/proposal-to-whitelist-kallistos-automated-vault-contract/4110) based on public and private comments. This Version2 proposal aims to address some of the questions and feedback from the Curve community regarding that initial proposal. Special thanks to the Curve folks who shared their perspectives. 
@@ -50,6 +51,6 @@ Against:
 A vote against signals community disapproval for Kallisto’s Curve Chaser Vault to be whitelisted for veCRV rewards.
 
 Poll:
-The poll will be submitted to the DAO, 24-hours after this post and after comments and review from the community.
+The poll will be submitted to the DAO, 24-hours after this post, and after comments and review from the community.
 
 Again, special thanks to the thoughful comments on our first proposal. We hope this updated proposal clarifies the Kallisto opportunity and value to the community.
